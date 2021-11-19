@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefan MIlenkovic</h1>
+<h1 align="center">Hi 👋, I'm Stefan Milenkovic</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve-232&label=Profile%20views&color=0e75b6&style=flat" alt="steve-232" /> </p>
