@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steve-232" alt="steve-232" /></a> </p>
 
-- 🔭 I’m currently working for [Modus Create](https://moduscreate.com/)
+- 🔭 I’m currently working as a Freelancer
 
-- 🌱 I’m currently learning **Vue v3 and TypeScript**
+- 🌱 I’m currently learning **Elixir**
 
 - 👨‍💻 All of my projects are available at [https://stefan-milenkovic.com/#/](https://stefan-milenkovic.com/#/)
 
