@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Elixir**
 
-- 👨‍💻 My personal website is here [https://stefan-milenkovic.com/](https://stefan-milenkovic.com/)
+- 👨‍💻 My personal website is here [stefan-milenkovic.com](https://stefan-milenkovic.com)
 
 - 📫 How to reach me **steve232np@gmail.com**
 
