@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan Milenkovic</h1>
-<h3 align="center">A passionate frontend developer from Serbia</h3>
+<h3 align="center">A creative Front-end developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve-232&label=Profile%20views&color=0e75b6&style=flat" alt="steve-232" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Elixir**
 
-- 👨‍💻 All of my projects are available at [https://stefan-milenkovic.com/#/](https://stefan-milenkovic.com/#/)
+- 👨‍💻 My personal website is here [https://stefan-milenkovic.com/](https://stefan-milenkovic.com/)
 
 - 📫 How to reach me **steve232np@gmail.com**
 
